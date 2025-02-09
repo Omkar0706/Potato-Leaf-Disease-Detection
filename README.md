@@ -60,13 +60,18 @@ The dataset is preprocessed and augmented to improve model performance.
 
 Architecture: Convolutional Neural Network (CNN)
 
+
 Input Image Size: 128x128 pixels
+
 
 Framework: TensorFlow/Keras
 
+
 Loss Function: Categorical Crossentropy
 
+
 Optimizer: Adam
+
 
 🎯 How It Works
 
