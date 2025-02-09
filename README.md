@@ -7,9 +7,13 @@ This project focuses on detecting and classifying potato leaf diseases using dee
 🏗️ Features
 
 📷 Image Upload: Users can upload images of potato leaves through the web interface.
+
 🔬 Deep Learning Model: A Convolutional Neural Network (CNN) trained on a dataset of potato leaf images.
+
 🎯 Disease Classification: Predicts if a potato leaf is Healthy, has Early Blight, or Late Blight.
+
 🌍 User-Friendly Web App: Built using Streamlit for an interactive experience.
+
 📊 Real-Time Predictions: Displays classification results instantly.
 
 🏗️ Project Structure
