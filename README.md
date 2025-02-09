@@ -91,4 +91,4 @@ Deploy the model as a cloud-based API.
 
 📩 Contact
 
-For queries, feel free to reach out at [omkarchoudhury.com] or open an issue on GitHub.
+For queries, feel free to reach out at [omkarchoudhury0706.com] or open an issue on GitHub.
